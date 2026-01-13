@@ -1,0 +1,43 @@
+body {
+    background-color: #fff7ed;
+    font-family:  cursive
+}
+
+.div1 {
+    background-color: #fff7ed;
+}
+.div1h1 {
+    background-color: #fde68a;
+    text-align: center;
+    color: #92400e;
+}
+.div1h2 {
+    background-color: #fed7aa;
+    text-align: center;
+    color: #92400e;
+}
+.image {
+    text-align: center;
+}
+.footer {
+    background-color: #78350f;
+    text-align: center;
+    color: #fde68a;
+}
+.text {
+    font-family: cursive;
+}
+h3 {
+    color: #92400e;
+}
+
+ul a {
+    text-decoration: none;
+    display: block;
+}
+
+.end {
+    background-color:  #78350f;
+    text-align: center;
+    color: white;
+ }
